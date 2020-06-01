@@ -14,7 +14,7 @@ int main(){
 	printf("what is your name ? : \n");
 	printt("my name is sinyoungkim\n");
 	printf("what is your name ?\ : \n");
-
+	printf("my name is hanjinsu\n");
   scanf("%s,name");
   printf("You have pretty name\n");
 	printf("Oh! Thank you");
@@ -44,10 +44,10 @@ int main(){
 	else		printf("Ugamigun jane.. Imi yaejunae ggeutnatdane..");
 
 
-        printf("now is 05:54AM\n");
+        printf("now is 06:46PM\n");
 
 
-printf("today is saturday\n");
+printf("today is Monday\n");
 
 	return 0
 
